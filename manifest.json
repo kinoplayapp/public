@@ -7,10 +7,10 @@
             "version": "0.1.6"
         },
         "windows": {
-            "file_x64": "https://kino-play.app/releases/Kinoplay-x64-0.1.5.msi",
-            "file_x86": "https://kino-play.app/releases/Kinoplay-x86-0.1.5.msi",
+            "file_x64": "https://kino-play.app/releases/Kinoplay-x64-0.1.6.msi",
+            "file_x86": "https://kino-play.app/releases/Kinoplay-x86-0.1.6.msi",
             "download": "https://kino-play.app/download/windows",
-            "version": "0.1.5"
+            "version": "0.1.6"
         }
     }
 }
